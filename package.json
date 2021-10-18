@@ -1,0 +1,17 @@
+{
+  "name": "complete-sass-tutorial",
+  "version": "1.0.0",
+  "description": "All course files for the Complete Sass Tutorial on the Net Ninja YouTube channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.43.2"
+  }
+}
